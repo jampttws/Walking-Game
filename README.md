@@ -20,8 +20,7 @@ attacked the enemy, you will die and game will be over
 
 > Singleton Pattern
 
-*any details and diagrams of each design pattern is in 
-[design_pattern.pdf](design_pattern.pdf) *
+_any details and diagrams of each design pattern is in [design_pattern.pdf](design_pattern.pdf)_
 ```
 Author:
 Tanasorn Tritawisup
